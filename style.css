@@ -223,7 +223,7 @@ hr {
     content-box;
     display: block;
 }
-video{
+iframe{
     margin-top: 10%;
     width: 1100px;
 }
@@ -406,8 +406,9 @@ footer{
     hr{
         width: 600px;
     }
-    video{
+    iframe{
         width: 90%;
+        height: 90%
     }
     .container3{
         height: 650px;
